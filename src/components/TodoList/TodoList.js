@@ -39,9 +39,11 @@ class TodoList extends React.Component {
     this.save();
   };
   remove = key => {
-    let { list } = this.state;
-    this.setState({ list: list.filter(i => i.id !== key) });
-    this.save();
+    if (window.confirm("Are you sure you wanna remove this item")) {
+      let { list } = this.state;
+      this.setState({ list: list.filter(i => i.id !== key) });
+      this.save();
+    }
   };
   render() {
     let { value, list } = this.state;
