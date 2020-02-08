@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-todo/static/css/main.aca03d47.chunk.css",
+    "main.js": "/simple-todo/static/js/main.eb5e47d1.chunk.js",
+    "main.js.map": "/simple-todo/static/js/main.eb5e47d1.chunk.js.map",
+    "runtime-main.js": "/simple-todo/static/js/runtime-main.31c5c200.js",
+    "runtime-main.js.map": "/simple-todo/static/js/runtime-main.31c5c200.js.map",
+    "static/js/2.e0beccdb.chunk.js": "/simple-todo/static/js/2.e0beccdb.chunk.js",
+    "static/js/2.e0beccdb.chunk.js.map": "/simple-todo/static/js/2.e0beccdb.chunk.js.map",
+    "index.html": "/simple-todo/index.html",
+    "precache-manifest.c40eead769ea0f469aaaeff4b47dc16e.js": "/simple-todo/precache-manifest.c40eead769ea0f469aaaeff4b47dc16e.js",
+    "service-worker.js": "/simple-todo/service-worker.js",
+    "static/css/main.aca03d47.chunk.css.map": "/simple-todo/static/css/main.aca03d47.chunk.css.map",
+    "static/js/2.e0beccdb.chunk.js.LICENSE.txt": "/simple-todo/static/js/2.e0beccdb.chunk.js.LICENSE.txt",
+    "static/media/discord_checkmark-transparent.png": "/simple-todo/static/media/discord_checkmark-transparent.2084a054.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31c5c200.js",
+    "static/js/2.e0beccdb.chunk.js",
+    "static/css/main.aca03d47.chunk.css",
+    "static/js/main.eb5e47d1.chunk.js"
+  ]
+}
