@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aca03d47.chunk.css",
+    "main.js": "/static/js/main.86514031.chunk.js",
+    "main.js.map": "/static/js/main.86514031.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c66be5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c66be5.js.map",
+    "static/js/2.e0beccdb.chunk.js": "/static/js/2.e0beccdb.chunk.js",
+    "static/js/2.e0beccdb.chunk.js.map": "/static/js/2.e0beccdb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1efe232cf450c89be87648621a68c36b.js": "/precache-manifest.1efe232cf450c89be87648621a68c36b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.aca03d47.chunk.css.map": "/static/css/main.aca03d47.chunk.css.map",
+    "static/js/2.e0beccdb.chunk.js.LICENSE.txt": "/static/js/2.e0beccdb.chunk.js.LICENSE.txt",
+    "static/media/discord_checkmark-transparent.png": "/static/media/discord_checkmark-transparent.2084a054.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c66be5.js",
+    "static/js/2.e0beccdb.chunk.js",
+    "static/css/main.aca03d47.chunk.css",
+    "static/js/main.86514031.chunk.js"
+  ]
+}

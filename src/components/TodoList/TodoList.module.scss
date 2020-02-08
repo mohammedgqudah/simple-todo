@@ -1,0 +1,45 @@
+@import "../../settings.scss";
+
+$br: 4px;
+.TodoList {
+  height: 35rem;
+  width: 25rem;
+  max-height: 35rem;
+  border-radius: $br;
+  background-color: $dark;
+  display: grid;
+  grid-template-columns: 1;
+  grid-template-rows: 15% 15% 1fr;
+  box-shadow: 0 20px 30px rgba(0, 0, 0, 0.13);
+  header {
+    background-color: $grey;
+    padding: 1.5rem 1rem;
+    border-radius: $br;
+    // border-bottom-left-radius: 15px;
+    // border-bottom-right-radius: 15px;
+    .head {
+      margin: 0;
+      font-weight: 700;
+      font-size: 2.5rem;
+      color: #fff;
+    }
+  }
+  .input_con {
+    margin-top: 1rem;
+    padding: 0 1.5rem;
+    .input {
+      width: 100%;
+      border: none;
+      background-color: rgba(0, 0, 0, 0.13);
+      padding: 1rem 0.5rem;
+      outline: none;
+      font-size: 1rem;
+      color: lighten($grey, 20%);
+    }
+  }
+  .list {
+    overflow: auto;
+    background-position: center;
+  background-size: cover;
+  }
+}
